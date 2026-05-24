@@ -1,0 +1,4 @@
+product_id,prompt_strategy,ux_priority,accessibility_goal
+ai_01,"Use mesh gradients and micro-interactions on hover.","Information architecture for LLM responses.","WCAG 2.1 Contrast for primary actions."
+fin_01,"Use data-dense tables with sparklines and clear trend indicators.","Reducing cognitive load in complex transactions.","Screen reader support for data grids."
+... (truncated)
