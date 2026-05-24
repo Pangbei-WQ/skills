@@ -1,7 +1,33 @@
 # OS files
 .DS_Store
 Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Node
+node_modules/
+*.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
 
 # Temporary files
 *.tmp
 *.log
+*.bak
+
+# Environment & secrets
+.env
+.env.*
+*.pem
+*.key
+credentials.*
